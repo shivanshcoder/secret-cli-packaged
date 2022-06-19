@@ -1,0 +1,4 @@
+
+
+class WrongPassLimit(Exception):
+    pass
